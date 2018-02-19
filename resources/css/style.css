@@ -15,3 +15,20 @@ h4 a {
   color: Aquamarine;
   font-size: 16px;
 }
+
+#header2 h1 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+#header2 h2 {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Grey;
+}
+
+#copy h4 {
+  text-align: right;
+  color: Grey;
+}
